@@ -1,1 +1,3 @@
-alert("hello Git");
+ message="Hello Git";
+alert(message);
+
